@@ -7,4 +7,4 @@
 
 打开 [http://localhost:3000](http://localhost:3000) 实时预览。
 
-<img src="https://github.com/KevinAndrewDong/toDoMatic/blob/master/public/example.png">
+<img src="https://github.com/KevinAndrewDong/toDoMatic/blob/master/public/example.png" width="50%" highth="50%">
